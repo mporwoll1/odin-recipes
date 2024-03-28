@@ -1,9 +1,21 @@
-* {
+body {
     background-color: #2D3047;
     color: #31E981;
     font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color:#2D3047;
+}
 h2 {
     color: #DE3C4B;
     font-weight: bold;
+}
+div {
+    color: #85877C;
+    background-color: #F6F8FF;
+    margin: 10px;
+    padding: 10px;
 }
